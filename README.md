@@ -11,4 +11,6 @@ The usage is:
 
 Modify the files appropriately to setup your script. 
 
-[Blog Link](https://aaron.vansledright.com/)
+For More info check out my blog:
+
+[Blog Link](https://aaron.vansledright.com/convert-spotify-links-to-youtube-links/)
